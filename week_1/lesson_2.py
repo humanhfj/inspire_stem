@@ -1,0 +1,7 @@
+print("My name is Vincent Morara")
+print("I am 18 years old")
+print("I come from kiambu county")
+print("I love playing games")
+print("--------------")
+print("**************")
+print("##############")
