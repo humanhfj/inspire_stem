@@ -18,6 +18,25 @@ if grade >= 84 and grade <=90 :
     print("You win a calculator")
 elif grade >=50 and grade <=83  :
     print("You win a mathematical set")
-else :
+
     print("You get nothing !")
+
+
+
+salary = 150000 
+if salary >100000 :
+    salary= salary * 0.3 + salary
+    print(salary)
+if  salary >100000 and salary <150000:
+    salary = salary * 0.15 + salary
+    print(salary)
+if  salary >150000 :
+    salary = salary * 0.05 + salary
+    print(salary)
+
+
+
+
+
+
    

@@ -1,6 +1,22 @@
+x = 1
 
-number = 20
+while x < 10 :
+   
+    #if x ==5:
+    #break
+    if x ==5 :
+        break
+    x = x +1 
 
-for i in range (1,number):
-    while i < 10:
-        print(i)
+#if x==6
+    #continue
+
+    if x==6:
+        continue
+    x = x+1
+    print(x)
+
+    x = 2 #interger
+    h = 6.89#float
+    print(float(x))
+    print(int(h))

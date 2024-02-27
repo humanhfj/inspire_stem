@@ -32,5 +32,13 @@ age = 50
 height = 1.5
 print("I am {}years old and {} meters tall".format(age,height))
 
+name="vincent morara"
+print(len(name))
 
+name="vincent morara"
+print(len(name))
+print(f"My full name is {name}")
 
+school = "engineering"
+course ="electical"
+print("I am studying{course}in the school of {school}".format(course,school))
