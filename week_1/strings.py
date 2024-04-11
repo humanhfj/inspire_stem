@@ -40,5 +40,5 @@ print(len(name))
 print(f"My full name is {name}")
 
 school = "engineering"
-course ="electical"
+course = "electical"
 print("I am studying{course}in the school of {school}".format(course,school))
